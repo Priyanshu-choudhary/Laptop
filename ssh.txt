@@ -1,0 +1,2 @@
+ ssh priyanshu@192.168.29.217
+ password kaalx
