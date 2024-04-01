@@ -1,0 +1,7 @@
+/**
+ * LagesrConSum)
+ */
+public class LagesrConSum() {
+
+    
+}

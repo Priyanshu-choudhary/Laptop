@@ -9,7 +9,7 @@ class moorealgo{
                 c++;
             }
             if(c2==0  && el  != arr[i]){
-                    el2=arr[i];
+                    el2=arr[i]; 
                     c2++;
                 }
                 else if(el==arr[i]){
